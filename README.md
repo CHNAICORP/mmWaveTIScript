@@ -238,4 +238,23 @@ logs/mmwave.log:
 
 ​	Python script log
 
+## Resources
+
+### BaiduNetdisk
+
+```http
+https://pan.baidu.com/s/12emzddZH6rp2p-x7Q-Xd-A?pwd=zzbo
+```
+
+Extracted code
+
+```bash
+zzbo
+```
+
+###  OneDrive
+
+```http
+https://1drv.ms/u/s!Ar3wCCpzemccrJIMb6t57oU8tkDdYw?e=ESfGD1
+```
 
